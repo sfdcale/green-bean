@@ -5,7 +5,7 @@
     "keywords" : [ "GE", "GEA", "SDK", "General Electric", "Green Bean" ],
     "author" : "Christopher Baker <christopher.baker2@ge.com>",
     "repository" : {
-        "type": "git", "url": "https://github.com/GEMakers/green-bean.git"
+        "type": "git", "url": "https://github.com/sfdcale/green-bean.git"
     },
     "version" : "0.1.1",
     "dependencies": {
@@ -15,6 +15,6 @@
         "gea-plugin-dishwasher": "git+https://github.com/GEMakers/gea-plugin-dishwasher.git",
         "gea-plugin-refrigerator": "git+https://github.com/GEMakers/gea-plugin-refrigerator.git",
         "gea-plugin-laundry": "git+https://github.com/GEMakers/gea-plugin-laundry.git",
-        "gea-plugin-water-heater": "git+https://github.com/GEMakers/gea-plugin-water-heater.git"
+        "gea-plugin-water-heater": "git+https://github.com/sfdcale/gea-plugin-water-heater.git"
     }
 }
